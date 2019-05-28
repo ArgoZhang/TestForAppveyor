@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Argo Zhang</Authors>
+    <Product>Test</Product>
+    <Description>Test for Appveyor Account Feed</Description>
+    <Version>1.0.0</Version>
+    <PackageId>TestForAppveyor</PackageId>
+    <PackageReleaseNotes></PackageReleaseNotes>
+    <Company>Test</Company>
+  </PropertyGroup>
+
+</Project>
