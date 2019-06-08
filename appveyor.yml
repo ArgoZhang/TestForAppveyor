@@ -8,5 +8,6 @@ build_script:
     dotnet publish TestForAppveyor/ -c Release
 
     dotnet pack TestForAppveyor/ -c Release
+test: off
 artifacts:
 - path: '**\*.nupkg'
